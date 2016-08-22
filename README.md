@@ -13,9 +13,7 @@ My version 0.1 of the classes is the following. I was thinking that the player c
 # Spell Cards
   The way this game works, rather than collecting dropped weapons for use, as in a traditional action rpg, you use cards.
 
-  Rather than having a spell tree that you choose from upon leveling, you earn your abilities through befriending the right people, defeating certain enemies, braving tough and challenging dungeons or completing quests.  
-  
-  Or perhaps you will be rewarded for exploring off the beaten path.
+  Rather than having a spell tree that you choose from upon leveling, you earn your abilities through befriending the right people, defeating certain enemies, braving tough and challenging dungeons or completing quests.  Or perhaps you will be rewarded for exploring off the beaten path.
   
   It's not quite final how this will work but this is to get the creative juices flowing and perhaps to establish a skeleton upon which better more complete ideas may be attached.
   
@@ -43,15 +41,18 @@ My version 0.1 of the classes is the following. I was thinking that the player c
 
 # Enemies
   - Levels [1-5]
-    - Zombie, Skeleton, Wolf, Crow, Lesser Imps, Demon Kin, Water Beast, Swamp Beast, Alligator/Crocodile
+    - Zombie, Skeleton, Wolf, Crow, Lesser Imps, Demon Kin, Water Beast, Swamp Beast, Alligator/Crocodile, Shore Raider, Undead Shore Raider
 
 # Areas
     - Starting zone
       - campfire, night forest path
       - fork in the road
-        -left to the boggy lowlands and coastal fishing village start area
-        -right to the deep wood, mountainous village
+        -left to the [swamp starting area] -> coastal fishing village start area
+        -right to the [deep wood starting area] -> mountain village
         
 # Quest Ideas
   - Daughter goes missing in swamp, must find her.  There is an enemy type, the siren.  A demon that looks and sounds like a       human to attract hapless victims.  The idea is that after running into the trap of several sirens, you start to second guess   whether the girl you have stumbled upon is really the lost girl or simply another siren.
+  - Out in one of the swamps are the ruins of a small and what was once upon a time, a noble kingdom.  Now the tower is abandoned and all signs of a once prosperous little kingdom, have vanished.  As of late however, folk have seen strange lights and noises coming from that part of the swamp.  Anyone who has ventured too close, never returned to inform the living of what they discovered... [this is one of those daily spawn wave quests. waves of undead will pour forth every day from this swamp keep until the source of undeath is put to rest.]
     
+# Game Mechanics
+  - A daily quest type scenario.  Every day the town you are in is invaded by a wave of enemies. You can cause the waves to cease by finding the monster or enemy somewhere out in the wilderness who is sending out these waves of enemies.  Every day that you don't go out and kill this special enemy , or accomplish whatever quest is spawning these waves of enemies, the waves will get increasingly more difficult.  So it beehooves you to accomplish it relatively quickly.
