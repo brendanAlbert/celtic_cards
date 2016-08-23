@@ -49,10 +49,6 @@ My version 0.1 of the classes is the following. I was thinking that the player c
       - fork in the road
         -left to the [swamp starting area] -> coastal fishing village start area
         -right to the [deep wood starting area] -> mountain village
-        
-# Quest Ideas
-  - Daughter goes missing in swamp, must find her.  There is an enemy type, the siren.  A demon that looks and sounds like a       human to attract hapless victims.  The idea is that after running into the trap of several sirens, you start to second guess   whether the girl you have stumbled upon is really the lost girl or simply another siren.
-  - Out in one of the swamps are the ruins of a small and what was once upon a time, a noble kingdom.  Now the tower is abandoned and all signs of a once prosperous little kingdom, have vanished.  As of late however, folk have seen strange lights and noises coming from that part of the swamp.  Anyone who has ventured too close, never returned to inform the living of what they discovered... [this is one of those daily spawn wave quests. waves of undead will pour forth every day from this swamp keep until the source of undeath is put to rest.]
     
 # Game Mechanics
   - A daily quest type scenario.  Every day the town you are in is invaded by a wave of enemies. You can cause the waves to cease by finding the monster or enemy somewhere out in the wilderness who is sending out these waves of enemies.  Every day that you don't go out and kill this special enemy , or accomplish whatever quest is spawning these waves of enemies, the waves will get increasingly more difficult.  So it beehooves you to accomplish it relatively quickly.
