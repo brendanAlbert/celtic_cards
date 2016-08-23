@@ -50,5 +50,3 @@ My version 0.1 of the classes is the following. I was thinking that the player c
         -left to the [swamp starting area] -> coastal fishing village start area
         -right to the [deep wood starting area] -> mountain village
     
-# Game Mechanics
-  - A daily quest type scenario.  Every day the town you are in is invaded by a wave of enemies. You can cause the waves to cease by finding the monster or enemy somewhere out in the wilderness who is sending out these waves of enemies.  Every day that you don't go out and kill this special enemy , or accomplish whatever quest is spawning these waves of enemies, the waves will get increasingly more difficult.  So it beehooves you to accomplish it relatively quickly.
