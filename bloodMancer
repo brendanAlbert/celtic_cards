@@ -1,6 +1,27 @@
 # Bloodmancer
   - Bloodmancy.
   The bloodmancer would be perhaps similar to bloodseeker from Dota 2.
+  There are several playstyles for the bloodmancer. Since I was thinking that talent trees have been done away with
+  and class specialization comes from using certain cards in your deck / hand. Depending on how we decide to implement
+  this mechanic. Since talent trees have been removed, you can choose to use melee fighter enchancement type cards 
+  or you can play the blood mancer as more of a mage type class, but the spells used involve blood rituals.
   
 # Cards/Abilities/Spells
-  - sacrifice a percentage of life to increase your damage on each hit.
+  - [Sacrifice] On use, you sacrifice an amount of life to deal an increased amount of damage when you play this card.
+  - [Smell Blood] You can smell wounds on the enemy. If you play this card when the enemy has already been wounded, 
+     you deal increased damage because you know where to target where they are already injured.
+  - [Mortal Ritual] The player slices open their own palm and uses the blood as a catalyst for a powerful damage spell.
+  - [Fast Clotting] - The bloodmancer is a specialist in all things related to blood. To prevent himself from bleeding
+    out, the blood mancer can call upon ancient techniques on how to clot the blood to reduce the amount of damage he
+    takes.
+  - [Lesser Blood Golem] - Upon reaching a certain level of proficiency in the art of sanguine magics, the bloodmancer can
+    summon a golem made entirely of blood. A bloodmancer of novice level proficiency will only be able to summon a
+    golem of modest potency.
+      - [Minor Blood Golem]
+      - [Blood Golem]
+      - [Blood Golem Twins] - In this version of the spell, while neither golem is that powerful on its own, together
+        they represent a threat not to be taken lightly.
+      - [Major Blood Golem]
+  - [Purified Veins] - The bloodmancer is able to eliminate all manner of harmful ailments and toxic substances that
+    might have taken up residence within her circulatory system. Can drastically reduce duration of poisoning, or prevent
+    it altogether.
