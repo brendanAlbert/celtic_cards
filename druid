@@ -1,5 +1,29 @@
 # Druid
 - shapeshifter. 
 # Spells
-  - Shift into a Bear form.
-  - Shift into a Stag form.
+  # Shapeshifting spells
+    - Shift into a Bear form.
+    - Shift into a Stag form.
+  # Healing Spells
+    - [Crude Heal] Utilizing a crude form of druid magic, the druid can heal a target or self 
+      but at the cost of health from another source. This means that, you would have to draw on a summoned creature
+      or ally to use this spell.
+    - [Lesser Nature's Touch] Although the healing from this spell is not substantial, it does have the benefit of
+      requiring only mana/reagents to use.
+    - [Nature's Touch]
+    - [Power Nature's Touch] This is the kind of healing that takes Druids many years to become proficient at. Do not expect
+      to start using heals like this until you have progressed relatively far in your adventure.
+  
+  # Defensive Spells
+    - [Briar shield] The Druid can fashion a crude natural shield made of interwoven briar thorns. Although not the
+      toughest of materials, it will do in a pinch.
+    - [Briar armor] Protecting herself in a protective layer of thorns and various stabbing plants, the druid gains
+      increased resistance to damage, and at later levels, this spell will even reflect damage at an attacker.
+  
+  # Offensive Spells
+    - [Summon Creeper] The Druid can animate plants to do his bidding. The Druid finds a suitable plant to cast this
+      spell, the plant will crawl out of the ground and walk on its root. Depending on the Druids skill and the strength of
+      the plant, the plant can have various abilities and methods of fighting. Several abilities might be: a plant that
+      shoots darts at enemies, a tanky cactus-like plant that serves as a tank and reflects damage, vine creepers might 
+      entangle a single enemy of perhaps various enemies, rooting them in place.  Some plants might have fast-acting or perhaps
+      slow-acting poisons, depending on the Druid's needs.
